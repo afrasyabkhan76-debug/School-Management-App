@@ -1,17 +1,22 @@
-# school_management_app
+# School Management App 🎓
 
-A new Flutter project.
+A responsive School Management App built with Flutter and Dart as a UI-focused project. It provides a simple interface for managing student and teacher records.
 
-## Getting Started
+### Features
+- 🔐 Sign In and Sign Up screens
+- 📊 Dashboard with total student and teacher counts
+- 👨‍🎓 Add and view student records
+- 👨‍🏫 Add and view teacher records
+- 🎨 Modern blue and purple UI
+- 📱 Responsive design
 
-This project is a starting point for a Flutter application.
+### Technologies Used
+- Flutter
+- Dart
+- Material Design
+- Git and GitHub
 
-A few resources to get you started if this is your first Flutter project:
+### Learning Goals
+This project helped me practice Flutter widgets, form validation, navigation, reusable components, lists, and state management using `setState` where needed.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Note:** This is a UI-focused learning project. Records are stored temporarily in memory and reset when the app restarts. No database or backend is connected.
